@@ -1,7 +1,7 @@
 [![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)]
 
 <h1 align="center">Hi 👋, I'm Rustam Shiriyev</h1>
-<h3 align="center">AI / ML Engineer | NLP & LLM Systems | Backend AI Developer</h3>
+<h3 align="center">AI Engineer | NLP & LLM Systems | Python Developer</h3>
 
 ---
 
@@ -15,48 +15,6 @@ I specialize in building **scalable AI backends**, fine-tuning transformer model
 - 🌍 Open-source contributor at **Khazar AI**
 - 🎓 B.E. in Computer Engineering (Final Year) — *Vistula University, Poland*
 
----
-
-### 🧑‍💻 Work Experience
-
-**AI Intern — FOREO (Remote, Spain)**  
-*Aug 2024 – Jan 2025*
-- Trained and deployed a **multilingual sentiment analysis model** for YouTube data  
-- Integrated AI models into a **desktop application** for real-time inference  
-- Improved model performance through **data preprocessing & feature engineering**  
-- Delivered AI-driven insights for **influencer & marketing analytics**
-
-**AI Developer — Perspektiv.az (Remote, Azerbaijan)**  
-*Feb 2025 – Apr 2025*
-- Built an **AI-powered ATS** handling **900,000+ resumes and job posts**
-- Designed **resume parsing & job matching** using embeddings (Sentence Transformers)
-- Implemented **REST APIs** with FastAPI for resume upload, job posting & matching
-- Used **PostgreSQL + ChromaDB** for structured data & vector search
-- Added **resume quality scoring & feedback system**
-
-**Open Source AI Contributor — Khazar AI (Remote, Poland)**  
-*Sep 2025 – Nov 2025*
-- Fine-tuned **29 language models** using **LoRA & QLoRA**
-- Worked on **CoT, SFT, RLHF, GRPO, TTS, and Azerbaijani LLMs**
-- Published multilingual NLP resources & evaluation tools on Hugging Face
-
----
-
-### 🧪 Featured Projects
-
-**🔹 Multi-Agent AI System**
-- Planner, Research, Coding & Data Science agents using **SmolAgents**
-- Web research via **Tavily API**
-- Secure Python execution inside **Docker**
-- Automated EDA & AutoML pipelines  
-🔗 https://github.com/Rustamshry34/Multi-Agent
-
-**🔹 AI-Powered Applicant Tracking System (ATS)**
-- Resume parsing & job matching using **LaBSE embeddings**
-- Vector search with **ChromaDB**
-- Backend powered by **FastAPI + PostgreSQL**
-- Designed for scalable, production-grade usage  
-🔗 https://github.com/Rustamshry34/LLM-based-ATS
 
 ---
 
