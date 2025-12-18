@@ -39,7 +39,7 @@ I specialize in building **scalable AI backends**, fine-tuning transformer model
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/rustamshiriyev" target="_blank">
+<a href="https://www.linkedin.com/in/rustam-shiriyev-2a7489177/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 <a href="https://huggingface.co/khazarai" target="_blank">
