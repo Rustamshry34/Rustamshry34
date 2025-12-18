@@ -1,7 +1,7 @@
 [![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)]
 
 <h1 align="center">Hi 👋, I'm Rustam Shiriyev</h1>
-<h3 align="center">AI Engineer | NLP & LLM Systems | Python Developer</h3>
+<h3 align="center">AI Engineer | Python Developer</h3>
 
 ---
 
@@ -9,10 +9,10 @@
 AI/ML Engineer with hands-on experience in **Natural Language Processing, Large Language Models, and end-to-end AI systems**.  
 I specialize in building **scalable AI backends**, fine-tuning transformer models, and deploying production-ready APIs using **Python & FastAPI**.
 
-- 🔭 Currently working on **AI-driven systems & open-source LLM projects**
-- 🧠 Strong focus on **NLP, LLM Fine-tuning, RAG, Vector Databases**
-- ⚙️ Experienced with **FastAPI, PyTorch, PostgreSQL, ChromaDB**
-- 🌍 Open-source contributor at **Khazar AI**
+- 🔭 Currently working on **AI-driven systems & open-source projects**
+- 🧠 Focus on **CI/CD, Pytest, DVC, Cloud platforms, LLM/ML pipelines**
+- ⚙️ Experienced with **Python(async), FastAPI, PyTorch, Docker, PostgreSQL, NLP, LLM Fine-tuning, RAG, Vector Databases(Chroma, FAISS), AI Agents**
+- 🌍 Open-source contributor at **Alatix AI**
 - 🎓 B.E. in Computer Engineering (Final Year) — *Vistula University, Poland*
 
 
