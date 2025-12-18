@@ -29,7 +29,6 @@ I specialize in building **scalable AI backends**, fine-tuning transformer model
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
 </p>
 
 **Core Skills:**  
@@ -40,7 +39,7 @@ I specialize in building **scalable AI backends**, fine-tuning transformer model
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rustam-shiriyev-2a7489177/)" target="_blank">
+<a href="https://linkedin.com/in/rustamshiriyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rustamshiriyev" height="30" width="40" /></a>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 <a href="https://huggingface.co/khazarai" target="_blank">
