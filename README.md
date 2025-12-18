@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" alt="Streamlit"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/PyQt_logo.svg" width="40" alt="PyQt"/>
+<img src="https://avatars.githubusercontent.com/u/146204287?s=200&v=4" width="40" alt="LangGraph"/>
 </p>
 
 **Core Skills:**  
