@@ -27,8 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" alt="ChromaDB"/>
 <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss_logo.png" width="40" alt="FAISS"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" alt="ChromaDB"/>
 </p>
 
 **Core Skills:**  
