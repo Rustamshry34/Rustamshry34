@@ -60,7 +60,3 @@ I specialize in building **scalable AI backends**, fine-tuning transformer model
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rustamshry34&show_icons=true" />
 </p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rustamshry34" />
-</p>
