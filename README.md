@@ -44,6 +44,9 @@
 <a href="https://huggingface.co/khazarai" target="_blank">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
 </a>
+<a href="https://www.kaggle.com/rustamshiriyev" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" alt="Kaggle"/>
+</a>
 </p>
 
 📫 **Email:** rustam.shiriyev@gmail.com
