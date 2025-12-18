@@ -6,8 +6,6 @@
 ---
 
 ### 🚀 About Me
-AI/ML Engineer with hands-on experience in **Natural Language Processing, Large Language Models, and end-to-end AI systems**.  
-I specialize in building **scalable AI backends**, fine-tuning transformer models, and deploying production-ready APIs using **Python & FastAPI**.
 
 - 🔭 Currently working on **AI-driven systems & open-source projects**
 - 🧠 Focus on **CI/CD, Pytest, DVC, Cloud platforms, LLM/ML pipelines**
