@@ -1,4 +1,5 @@
-[![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)]
+[![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Rustam Shiriyev</h1>
 <h3 align="center">AI Engineer | Python Developer</h3>
