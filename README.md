@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **AI-driven systems & open-source projects**
-- 🧠 Focus on **CI/CD, Pytest, DVC, Cloud platforms, LLM/ML pipelines**
+- 🧠 Focus on **CI/CD, Pytest, Cloud platforms, LLM/ML pipelines**
 - ⚙️ Experienced with **Python(async), FastAPI, PyTorch, Docker, PostgreSQL, NLP, LLM Fine-tuning, RAG, Vector Databases(Chroma, FAISS), AI Agents**
 - 🌍 Open-source contributor at **Alatix AI**
 - 🎓 B.E. in Computer Engineering (Final Year) — *Vistula University, Poland*
