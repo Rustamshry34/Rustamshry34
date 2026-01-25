@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rustam Shiriyev</h1>
-<h3 align="center">AI Engineer | Python Developer</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 ---
 
@@ -30,6 +30,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" alt="Streamlit"/>
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" alt="ChromaDB"/>
+<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg" width="40" alt="MLflow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>  
 </p>
 
 **Core Skills:**  
